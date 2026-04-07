@@ -1,11 +1,16 @@
 # kant.nvim
 
-Search and browse the works of Immanuel Kant in its original German directly from Neovim.
+Search and browse the works of Immanuel Kant in German directly from Neovim.
 
 kant.nvim ships with a structured plaintext corpus of Kant's writings and
 integrates with fuzzy finders like [fzf-lua](https://github.com/ibhagwan/fzf-lua)
 and [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) for
 full-text search, work browsing, and serendipitous discovery.
+
+> [!NOTE]
+> This is a very early stage plugin!
+> I've only added a few short texts to create a proof of concept.
+> That worked well so far, so I'll add more shortly.
 
 ## Features
 
