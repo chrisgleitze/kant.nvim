@@ -1,0 +1,145 @@
+local M = {}
+local kant = require("kant")
+
+--- Werkliste anzeigen — waehle ein Werk, dann oeffne oder durchsuche es
+function M.werke()
+  local texts_dir = kant.config.texts_dir
+  local picker = kant.config.picker
+
+  -- Unterverzeichnisse als Werke sammeln
+  local werke = {}
+  local handle = vim.loop.fs_scandir(texts_dir)
+  if not handle then
+    vim.notify("[kant.nvim] Textverzeichnis nicht lesbar: " .. texts_dir, vim.log.levels.ERROR)
+    return
+  end
+  while true do
+    local name, typ = vim.loop.fs_scandir_next(handle)
+    if not name then break end
+    if typ == "directory" and not name:match("^%.") then
+      table.insert(werke, name)
+    end
+  end
+  table.sort(werke)
+
+  if #werke == 0 then
+    vim.notify("[kant.nvim] Keine Werke gefunden in " .. texts_dir, vim.log.levels.WARN)
+    return
+  end
+
+  if picker == "fzf-lua" then
+    M._werke_fzf(werke, texts_dir)
+  else
+    M._werke_select(werke, texts_dir)
+  end
+end
+
+function M._werke_fzf(werke, texts_dir)
+  local ok, fzf = pcall(require, "fzf-lua")
+  if not ok then
+    M._werke_select(werke, texts_dir)
+    return
+  end
+
+  -- Titel hübsch formatieren
+  local display = {}
+  for _, w in ipairs(werke) do
+    table.insert(display, w:gsub("-", " "):gsub("^%l", string.upper))
+  end
+
+  fzf.fzf_exec(display, {
+    prompt = "Werk> ",
+    winopts = {
+      title = " Kants Werke ",
+      title_pos = "center",
+    },
+    actions = {
+      ["default"] = function(selected)
+        if not selected or #selected == 0 then return end
+        local idx = nil
+        for i, d in ipairs(display) do
+          if d == selected[1] then idx = i; break end
+        end
+        if idx then
+          local search = require("kant.search")
+          -- Suche innerhalb des gewaehlten Werks oeffnen
+          local werk_dir = texts_dir .. "/" .. werke[idx]
+          local orig_dir = kant.config.texts_dir
+          kant.config.texts_dir = werk_dir
+          search.search("")
+          kant.config.texts_dir = orig_dir
+        end
+      end,
+    },
+  })
+end
+
+function M._werke_select(werke, texts_dir)
+  vim.ui.select(werke, {
+    prompt = "Werk auswaehlen:",
+    format_item = function(w)
+      return w:gsub("-", " "):gsub("^%l", string.upper)
+    end,
+  }, function(choice)
+    if not choice then return end
+    local search = require("kant.search")
+    local orig_dir = kant.config.texts_dir
+    kant.config.texts_dir = texts_dir .. "/" .. choice
+    search.search("")
+    kant.config.texts_dir = orig_dir
+  end)
+end
+
+--- Zufaellige Stelle aus einem zufaelligen Werk oeffnen
+function M.zufall()
+  local texts_dir = kant.config.texts_dir
+
+  -- Alle Textdateien sammeln
+  local files = vim.fn.globpath(texts_dir, "**/*.txt", false, true)
+  if #files == 0 then
+    vim.notify("[kant.nvim] Keine Textdateien gefunden.", vim.log.levels.WARN)
+    return
+  end
+
+  math.randomseed(os.time())
+  local file = files[math.random(#files)]
+  local lines = vim.fn.readfile(file)
+
+  -- Metadaten-Header ueberspringen (--- ... ---)
+  local start = 1
+  if lines[1] and lines[1]:match("^%-%-%-") then
+    for i = 2, #lines do
+      if lines[i]:match("^%-%-%-") then
+        start = i + 1
+        break
+      end
+    end
+  end
+
+  -- Nicht-leere Zeilen sammeln
+  local content_lines = {}
+  for i = start, #lines do
+    if lines[i] and lines[i]:match("%S") then
+      table.insert(content_lines, i)
+    end
+  end
+
+  if #content_lines == 0 then
+    vim.notify("[kant.nvim] Leere Datei: " .. file, vim.log.levels.WARN)
+    return
+  end
+
+  local line_nr = content_lines[math.random(#content_lines)]
+
+  -- Datei oeffnen und zur Zeile springen
+  vim.cmd("edit " .. vim.fn.fnameescape(file))
+  vim.api.nvim_win_set_cursor(0, { line_nr, 0 })
+  vim.cmd("normal! zz")
+
+  if kant.config.readonly then
+    vim.bo.readonly = true
+    vim.bo.modifiable = false
+  end
+end
+
+return M
