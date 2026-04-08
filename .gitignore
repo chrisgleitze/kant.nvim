@@ -1,0 +1,7 @@
+doc/tags
+dual
+.nvim.lua
+Session.vim
+.codex
+CLAUDE.md
+AGENTS.md
