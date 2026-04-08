@@ -1,4 +1,4 @@
-" kant.nvim — Immanuel Kants Quelltexte in Vim/Neovim durchsuchen
+" kant.nvim — Search Immanuel Kant's source texts in Vim/Neovim
 " Maintainer: Christian Gleitze
 
 if exists('g:loaded_kant')

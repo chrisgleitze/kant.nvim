@@ -1,8 +1,8 @@
 local M = {}
 local kant = require("kant")
 
---- Volltextsuche ueber alle Kant-Texte via ripgrep
----@param query string|nil Suchbegriff (nil oeffnet leeren Picker)
+--- Full-text search across all Kant texts via ripgrep
+---@param query string|nil Search term (nil opens empty picker)
 function M.search(query)
   local texts_dir = kant.config.texts_dir
   local picker = kant.config.picker
@@ -12,14 +12,14 @@ function M.search(query)
   elseif picker == "telescope" then
     M._search_telescope(query, texts_dir)
   else
-    vim.notify("[kant.nvim] Unbekannter Picker: " .. picker, vim.log.levels.ERROR)
+    vim.notify("[kant.nvim] Unknown picker: " .. picker, vim.log.levels.ERROR)
   end
 end
 
 function M._search_fzf(query, texts_dir)
   local ok, fzf = pcall(require, "fzf-lua")
   if not ok then
-    vim.notify("[kant.nvim] fzf-lua nicht installiert.", vim.log.levels.ERROR)
+    vim.notify("[kant.nvim] fzf-lua not installed.", vim.log.levels.ERROR)
     return
   end
 
@@ -30,16 +30,16 @@ function M._search_fzf(query, texts_dir)
     no_esc = false,
     file_ignore_patterns = { "%.git/" },
     winopts = {
-      title = " Kant-Quelltexte ",
+      title = " Kant Source Texts ",
       title_pos = "center",
       preview = {
-        title = " Vorschau ",
+        title = " Preview ",
         title_pos = "center",
       },
     },
     actions = {
       ["default"] = function(selected, opts)
-        -- Datei read-only oeffnen wenn konfiguriert
+        -- Open file as read-only if configured
         local action = require("fzf-lua.actions")
         action.file_edit(selected, opts)
         if kant.config.readonly then
@@ -54,14 +54,14 @@ end
 function M._search_telescope(query, texts_dir)
   local ok, builtin = pcall(require, "telescope.builtin")
   if not ok then
-    vim.notify("[kant.nvim] telescope.nvim nicht installiert.", vim.log.levels.ERROR)
+    vim.notify("[kant.nvim] telescope.nvim not installed.", vim.log.levels.ERROR)
     return
   end
 
   builtin.live_grep({
     cwd = texts_dir,
     default_text = query or "",
-    prompt_title = "Kant-Suche",
+    prompt_title = "Kant Search",
   })
 end
 

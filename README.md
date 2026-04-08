@@ -95,7 +95,7 @@ require("kant").setup({
   show_references = true,
 
   -- Key mappings (set to false to disable)
-  keymap = {
+  keymaps = {
     search = "<leader>ks",   -- Open search prompt
     werke  = "<leader>kw",   -- Browse works
     zufall = "<leader>kz",   -- Random passage
