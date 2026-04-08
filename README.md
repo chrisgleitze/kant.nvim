@@ -4,6 +4,8 @@ Search and browse the works of Immanuel Kant in German directly from Neovim.
 
 The plugin combines Neovim's powerful search capabilities with a local corpus of the works of one of the most influential philosophers of all time.
 
+The texts are arranged, so you can cite the right page of the Akademie Ausgabe, the authoritative edition of Kant's works.
+
 ## What is it?
 
 kant.nvim ships with a structured plaintext corpus of Kant's writings and
@@ -137,7 +139,20 @@ The plugin ships with plaintext files from Kant's major works. Each file include
 - **Kritik der reinen Vernunft** — complete text
 - **Kritik der praktischen Vernunft** — complete text
 - **Kritik der Urteilskraft** — complete text
+- **Idee zu einer allgemeinen Geschichte in weltbürgerlicher Absicht** — complete text
+- **Beantwortung der Frage: Was ist Aufklärung?** — complete text
+- **Prolegomena zu einer jeden künftigen Metaphysik** — complete text
+- **Über den Gemeinspruch: Das mag in der Theorie richtig sein, taugt aber nicht für die Praxis** — complete text
+- **Religion innerhalb der Grenzen der bloßen Vernunft** — complete text
+- **Metaphysische Anfangsgründe der Rechtslehre** — complete text
+- **Das Ende aller Dinge** — complete text
+- **Bestimmung des Begriffs einer Menschenrace** — complete text
 - **Grundlegung zur Metaphysik der Sitten** — complete text
+- **Metaphysische Anfangsgründe der Tugendlehre** — complete text
+- **Der Streit der Facultäten** — complete text
+- **Anthropologie in pragmatischer Hinsicht** — complete text
+- **Über ein vermeintes Recht aus Menschenliebe zu lügen** — complete text
+- **Zum ewigen Frieden** — complete text
 
 ### Adding texts
 
@@ -168,27 +183,22 @@ kant.nvim/
 │   └── kant.vim            # Vim command definitions
 ├── texts/
 │   ├── 1781-kritik-der-reinen-vernunft/
-│   │   ├── 001-titelseite.txt
-│   │   ├── 002-baco-de-verulamio.txt
-│   │   ├── 003-kapitel-3.txt
-│   │   ├── ...
-│   │   └── 146-viertes-hauptstueck-die-geschichte-der-reinen-vernunft.txt
+│   ├── 1783-prolegomena-zu-einer-jeden-kuenftigen-metaphysik/
+│   ├── 1784-idee-zu-einer-allgemeinen-geschichte-in-weltbuergerlicher-absicht/
+│   ├── 1784-beantwortung-der-frage-was-ist-aufklaerung/
+│   ├── 1785-bestimmung-des-begriffs-einer-menschenrace/
+│   ├── 1785-grundlegung-zur-metaphysik-der-sitten/
 │   ├── 1788-kritik-der-praktischen-vernunft/
-│   │   ├── 001-titelseite.txt
-│   │   ├── 002-kapitel-2.txt
-│   │   ├── 003-kapitel-3.txt
-│   │   ├── ...
-│   │   └── 034-kapitel-34.txt
 │   ├── 1790-kritik-der-urteilskraft/
-│   │   ├── 001-titelseite.txt
-│   │   ├── 002-i-von-der-einteilung-der-philosophie.txt
-│   │   ├── ...
-│   │   └── 102-kapitel-102.txt
-│   └── 1785-grundlegung-zur-metaphysik-der-sitten/
-│       ├── 01-vorrede.txt
-│       ├── 02-erster-abschnitt.txt
-│       ├── 03-zweiter-abschnitt.txt
-│       └── 04-dritter-abschnitt.txt
+│   ├── 1793-ueber-den-gemeinspruch-das-mag-in-der-theorie-richtig-sein/
+│   ├── 1793-religion-innerhalb-der-grenzen-der-blossen-vernunft/
+│   ├── 1794-das-ende-aller-dinge/
+│   ├── 1795-zum-ewigen-frieden/
+│   ├── 1797-metaphysische-anfangsgruende-der-rechtslehre/
+│   ├── 1797-metaphysische-anfangsgruende-der-tugendlehre/
+│   ├── 1797-ueber-ein-vermeintes-recht-aus-menschenliebe-zu-luegen/
+│   ├── 1798-der-streit-der-facultaeten/
+│   ├── 1798-anthropologie-in-pragmatischer-hinsicht/
 ├── scripts/                # Text fetching utilities (planned)
 └── README.md
 ```
