@@ -2,7 +2,9 @@
 
 Search and browse the works of Immanuel Kant in German directly from Neovim.
 
-Combine the powerful search capabilities of Neovim with the large text corpus of one of the most influential philosophers of all time.
+The plugin combines Neovim's powerful search capabilities with a local corpus of the works of one of the most influential philosophers of all time.
+
+### What is it?
 
 kant.nvim ships with a structured plaintext corpus of Kant's writings and
 integrates with fuzzy finders like [fzf-lua](https://github.com/ibhagwan/fzf-lua)
@@ -13,6 +15,12 @@ full-text search, work browsing, and serendipitous discovery.
 > This is a very early-stage plugin!\
 > I've only added a few short texts by Kant to create a proof of concept.\
 > That worked well so far, so I'll add more shortly.
+
+## Why?
+
+This plugin is useful for people writing about Kant in Neovim. Neovim users usually like to do as much as possible without leaving the editor. A local corpus of Kant's works is a natural fit. It is likely the quickest way to find a passage or a term in his writings.
+
+Kant is notoriously hard to understand, so you need ro re-read his works again and again. Often you need to revisit what he actually wrote to make sure you have a definition right. You might also want to re-read entire passages of the original to check whether the interpretation you have in mind is compatible with the original.
 
 ## Features
 
@@ -122,12 +130,12 @@ require("kant").setup({
 
 ## Text Corpus
 
-So far the plugin ships with selected passages from Kant's major works as plaintext files. Each file includes a YAML-style metadata header with the work title, section name, Akademie-Ausgabe volume, page range, and year of first publication.
+The plugin ships with plaintext files from Kant's major works. Each file includes a YAML-style metadata header with the work title, section name, Akademie-Ausgabe volume, page range, and year of first publication.
 
 ### Currently included
 
 - **Kritik der reinen Vernunft** — Vorrede (B), Einleitung
-- **Grundlegung zur Metaphysik der Sitten** — Vorrede, Erster Abschnitt
+- **Grundlegung zur Metaphysik der Sitten** — complete text
 
 ### Adding texts
 
@@ -162,7 +170,9 @@ kant.nvim/
 │   │   └── einleitung.txt
 │   └── grundlegung-zur-metaphysik-der-sitten/
 │       ├── vorrede.txt
-│       └── erster-abschnitt.txt
+│       ├── erster-abschnitt.txt
+│       ├── zweiter-abschnitt.txt
+│       └── dritter-abschnitt.txt
 ├── scripts/                # Text fetching utilities (planned)
 └── README.md
 ```
