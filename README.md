@@ -4,7 +4,7 @@ Search and browse the works of Immanuel Kant in German directly from Neovim.
 
 The plugin combines Neovim's powerful search capabilities with a local corpus of the works of one of the most influential philosophers of all time.
 
-### What is it?
+## What is it?
 
 kant.nvim ships with a structured plaintext corpus of Kant's writings and
 integrates with fuzzy finders like [fzf-lua](https://github.com/ibhagwan/fzf-lua)
@@ -169,10 +169,10 @@ kant.nvim/
 │   │   ├── vorrede-b.txt
 │   │   └── einleitung.txt
 │   └── grundlegung-zur-metaphysik-der-sitten/
-│       ├── vorrede.txt
-│       ├── erster-abschnitt.txt
-│       ├── zweiter-abschnitt.txt
-│       └── dritter-abschnitt.txt
+│       ├── 01-vorrede.txt
+│       ├── 02-erster-abschnitt.txt
+│       ├── 03-zweiter-abschnitt.txt
+│       └── 04-dritter-abschnitt.txt
 ├── scripts/                # Text fetching utilities (planned)
 └── README.md
 ```
