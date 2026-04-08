@@ -2,15 +2,17 @@
 
 Search and browse the works of Immanuel Kant in German directly from Neovim.
 
+Combine the powerful search capabilities of Neovim with the large text corpus of one of the most influential philosophers of all time.
+
 kant.nvim ships with a structured plaintext corpus of Kant's writings and
 integrates with fuzzy finders like [fzf-lua](https://github.com/ibhagwan/fzf-lua)
 and [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) for
 full-text search, work browsing, and serendipitous discovery.
 
 > [!NOTE]
-> This is a very early stage plugin!
-> I've only added a few short texts to create a proof of concept.
-> That worked well so far, so I'll add more shortly.
+> This is a very early stage plugin!\
+> I've only added a few short texts to create a proof of concept.\
+> That worked well so far, so I'll add more shortly.\
 
 ## Features
 
@@ -32,6 +34,8 @@ full-text search, work browsing, and serendipitous discovery.
 
 ### [lazy.nvim](https://github.com/folke/lazy.nvim)
 
+To use the default config:
+
 ```lua
 {
   "chrisgleitze/kant.nvim",
@@ -39,7 +43,21 @@ full-text search, work browsing, and serendipitous discovery.
 }
 ```
 
-### [vim.pack](https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack) (Neovim built-in)
+If you'd like to edit the default config:
+
+```lua
+{
+  "chrisgleitze/kant.nvim",
+    config = function()
+        require("kant").setup({
+        -- your own config
+    end,
+}
+```
+
+### [vim.pack](https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack)
+
+(since Neovim 0.12 the built-in Neovim plugin manager)
 
 ```lua
 vim.pack.add({
