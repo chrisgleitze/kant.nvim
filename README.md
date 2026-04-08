@@ -11,8 +11,8 @@ full-text search, work browsing, and serendipitous discovery.
 
 > [!NOTE]
 > This is a very early stage plugin!\
-> I've only added a few short texts to create a proof of concept.\
-> That worked well so far, so I'll add more shortly.\
+> I've only added a few short texts by Kant to create a proof of concept.\
+> That worked well so far, so I'll add more shortly.
 
 ## Features
 
