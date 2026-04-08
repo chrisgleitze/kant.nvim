@@ -4,7 +4,7 @@ Search and browse the works of Immanuel Kant in German directly from Neovim.
 
 The plugin combines Neovim's powerful search capabilities with a local corpus of the works of one of the most influential philosophers of all time.
 
-The texts are arranged, so you can cite the right page of the Akademie Ausgabe, the authoritative edition of Kant's works.
+The texts are arranged, so you can cite the exact page of the Akademie Ausgabe, the authoritative edition of Kant's works.
 
 ## What is it?
 
@@ -12,11 +12,6 @@ kant.nvim ships with a structured plaintext corpus of Kant's writings and
 integrates with fuzzy finders like [fzf-lua](https://github.com/ibhagwan/fzf-lua)
 and [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) for
 full-text search, work browsing, and serendipitous discovery.
-
-> [!NOTE]
-> This is a very early-stage plugin!\
-> The core proof of concept is in place.\
-> I'm expanding the corpus step by step with complete texts by Kant.\
 
 ## Why?
 
@@ -136,23 +131,23 @@ The plugin ships with plaintext files from Kant's major works. Each file include
 
 ### Currently included
 
-- **Kritik der reinen Vernunft** — complete text
-- **Kritik der praktischen Vernunft** — complete text
-- **Kritik der Urteilskraft** — complete text
-- **Idee zu einer allgemeinen Geschichte in weltbürgerlicher Absicht** — complete text
-- **Beantwortung der Frage: Was ist Aufklärung?** — complete text
-- **Prolegomena zu einer jeden künftigen Metaphysik** — complete text
-- **Über den Gemeinspruch: Das mag in der Theorie richtig sein, taugt aber nicht für die Praxis** — complete text
-- **Religion innerhalb der Grenzen der bloßen Vernunft** — complete text
-- **Metaphysische Anfangsgründe der Rechtslehre** — complete text
-- **Das Ende aller Dinge** — complete text
-- **Bestimmung des Begriffs einer Menschenrace** — complete text
-- **Grundlegung zur Metaphysik der Sitten** — complete text
-- **Metaphysische Anfangsgründe der Tugendlehre** — complete text
-- **Der Streit der Facultäten** — complete text
-- **Anthropologie in pragmatischer Hinsicht** — complete text
-- **Über ein vermeintes Recht aus Menschenliebe zu lügen** — complete text
-- **Zum ewigen Frieden** — complete text
+- **Kritik der reinen Vernunft**
+- **Kritik der praktischen Vernunft**
+- **Kritik der Urteilskraft**
+- **Idee zu einer allgemeinen Geschichte in weltbürgerlicher Absicht**
+- **Beantwortung der Frage: Was ist Aufklärung?**
+- **Prolegomena zu einer jeden künftigen Metaphysik**
+- **Über den Gemeinspruch: Das mag in der Theorie richtig sein, taugt aber nicht für die Praxis**
+- **Religion innerhalb der Grenzen der bloßen Vernunft**
+- **Metaphysische Anfangsgründe der Rechtslehre**
+- **Das Ende aller Dinge**
+- **Bestimmung des Begriffs einer Menschenrace**
+- **Grundlegung zur Metaphysik der Sitten**
+- **Metaphysische Anfangsgründe der Tugendlehre**
+- **Der Streit der Facultäten**
+- **Anthropologie in pragmatischer Hinsicht**
+- **Über ein vermeintes Recht aus Menschenliebe zu lügen**
+- **Zum ewigen Frieden**
 
 ### Adding texts
 
@@ -205,7 +200,7 @@ kant.nvim/
 
 ## Roadmap
 
-- [ ] Expand corpus with more works and minor texts
+- [x] Expand corpus with more works and minor texts
 - [ ] `scripts/fetch_texts.sh` to download texts from Project Gutenberg / DTA
 - [ ] `:KantStelle III:52` — look up passages by Akademie-Ausgabe page number
 - [ ] Begriffregister (concept index) for key philosophical terms
