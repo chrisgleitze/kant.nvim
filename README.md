@@ -10,7 +10,7 @@ and [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) for
 full-text search, work browsing, and serendipitous discovery.
 
 > [!NOTE]
-> This is a very early stage plugin!\
+> This is a very early-stage plugin!\
 > I've only added a few short texts by Kant to create a proof of concept.\
 > That worked well so far, so I'll add more shortly.
 
@@ -43,21 +43,22 @@ To use the default config:
 }
 ```
 
-If you'd like to edit the default config:
+If you'd like to edit the default configuration:
 
 ```lua
 {
   "chrisgleitze/kant.nvim",
-    config = function()
-        require("kant").setup({
-        -- your own config
-    end,
+  config = function()
+    require("kant").setup({
+      -- your own config
+    })
+  end,
 }
 ```
 
 ### [vim.pack](https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack)
 
-(since Neovim 0.12 the built-in Neovim plugin manager)
+Since Neovim 0.12, this is the built-in plugin manager.
 
 ```lua
 vim.pack.add({
@@ -121,7 +122,7 @@ require("kant").setup({
 
 ## Text Corpus
 
-The plugin ships with selected passages from Kant's major works as plaintext files. Each file includes a YAML-style metadata header with the work title, section name, Akademie-Ausgabe volume and page range, and year of first publication.
+So far the plugin ships with selected passages from Kant's major works as plaintext files. Each file includes a YAML-style metadata header with the work title, section name, Akademie-Ausgabe volume, page range, and year of first publication.
 
 ### Currently included
 
