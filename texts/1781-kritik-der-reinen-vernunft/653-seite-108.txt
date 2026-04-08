@@ -1,0 +1,41 @@
+---
+Werk: Kritik der reinen Vernunft
+Abschnitt: Akademie-Ausgabe Seite 108
+Akademie-Ausgabe: Bd. IV, S. 108
+Erstausgabe: 1781
+---
+
+man ein Prädicat eines Dinges zuvörderst von dem Begriff desselben absondert
+und nachher sein Gegentheil mit diesem Prädicate verknüpft,
+welches niemals einen Widerspruch mit dem Subjecte, sondern nur mit
+dessen Prädicate, welches mit jenem synthetisch verbunden worden, abgiebt
+und zwar nur dann, wenn das erste und zweite Prädicat zu gleicher Zeit
+gesetzt werden. Sage ich: ein Mensch, der ungelehrt ist, ist nicht gelehrt,
+so muß die Bedingung zugleich dabei stehen; denn der, so zu einer Zeit
+ungelehrt ist, kann zu einer andern gar wohl gelehrt sein. Sage ich aber:
+kein ungelehrter Mensch ist gelehrt, so ist der Satz analytisch, weil das
+Merkmal (der Ungelahrtheit) nunmehr den Begriff des Subjects mit ausmacht,
+und alsdann erhellt der verneinende Satz unmittelbar aus dem
+Satze des Widerspruchs, ohne daß die Bedingung: zugleich hinzu kommen
+darf. Dieses ist denn auch die Ursache, weswegen ich oben die Formel
+desselben so verändert habe, daß die Natur eines analytischen Satzes dadurch
+deutlich ausgedrückt wird.
+Des
+Systems der Grundsätze des reinen Verstandes
+Zweiter Abschnitt.
+Von dem obersten Grundsatze aller synthetischen Urtheile.
+Die Erklärung der Möglichkeit synthetischer Urtheile ist eine Aufgabe,
+mit der die allgemeine Logik gar nichts zu schaffen hat, die auch sogar
+ihren Namen nicht einmal kennen darf. Sie ist aber in einer transscendentalen
+Logik das wichtigste Geschäfte unter allen und sogar das einzige,
+wenn von der Möglichkeit synthetischer Urtheile a priori die Rede ist, imgleichen
+den Bedingungen und dem Umfange ihrer Gültigkeit. Denn nach
+Vollendung desselben kann sie ihrem Zwecke, nämlich den Umfang und
+die Grenzen des reinen Verstandes zu bestimmen, vollkommen ein Gnüge
+thun.
+Im analytischen Urtheile bleibe ich bei dem gegebenen Begriffe, um
+etwas von ihm auszumachen. Soll es bejahend sein, so lege ich diesem
+Begriffe nur dasjenige bei, was in ihm schon gedacht war; soll es verneinend
+sein, so schließe ich nur das Gegentheil desselben von ihm aus.
+In synthetischen Urtheilen aber soll ich aus dem gegebenen Begriff hinausgehen,
+um etwas ganz anderes, als in ihm gedacht war, mit demselben

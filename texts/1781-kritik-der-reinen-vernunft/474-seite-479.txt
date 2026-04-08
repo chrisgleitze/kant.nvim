@@ -1,0 +1,31 @@
+---
+Werk: Kritik der reinen Vernunft
+Abschnitt: Akademie-Ausgabe Seite 479
+Akademie-Ausgabe: Bd. III, S. 479
+Erstausgabe: 1781
+---
+
+Sprache hat für die Ausdrücke der Exposition, Explication,
+Declaration und Definition nichts mehr als das eine Wort Erklärung;
+und daher müssen wir schon von der Strenge der Forderung, da
+wir nämlich den philosophischen Erklärungen den Ehrennamen der Definition
+verweigerten, etwas ablassen und wollen diese ganze Anmerkung
+darauf einschränken, daß philosophische Definitionen nur als Expositionen
+gegebener, mathematische aber als Constructionen ursprünglich gemachter
+Begriffe, jene nur analytisch durch Zergliederung (deren Vollständigkeit
+nicht apodiktisch gewiß ist), diese synthetisch zu Stande gebracht werden
+und also den Begriff selbst machen, dagegen die ersteren ihn nur erklären.
+Hieraus folgt:
+a) daß man es in der Philosophie der Mathematik nicht so nachthun
+müsse, die Definitionen voranzuschicken, als nur etwa zum bloßen Versuche.
+Denn da sie Zergliederungen gegebener Begriffe sind, so gehen
+diese Begriffe, obzwar nur noch verworren, voran, und die unvollständige
+Exposition geht vor der vollständigen, so daß wir aus einigen Merkmalen,
+die wir aus einer noch unvollendeten Zergliederung gezogen haben, manches
+vorher schließen können, ehe wir zur vollständigen Exposition, d. i.
+zur Definition, gelangt sind; mit einem Worte, daß in der Philosophie
+die Definition, als abgemessene Deutlichkeit, das Werk eher schließen als
+anfangen müsse*). Dagegen haben wir in der Mathematik gar keinen
+Begriff vor der Definition, als durch welche der Begriff allererst gegeben
+wird, sie muß also und kann auch jederzeit davon anfangen.
+b) Mathematische Definitionen können niemals irren. Denn weil

@@ -1,0 +1,44 @@
+---
+Werk: Kritik der reinen Vernunft
+Abschnitt: Akademie-Ausgabe Seite 514
+Akademie-Ausgabe: Bd. III, S. 514
+Erstausgabe: 1781
+---
+
+kann zwar Gewißheit, aber nicht Begreiflichkeit der Wahrheit in Ansehung
+des Zusammenhanges mit den Gründen ihrer Möglichkeit hervorbringen.
+Daher sind die letzteren mehr eine Nothhülfe, als ein Verfahren,
+welches allen Absichten der Vernunft ein Genüge thut. Doch haben diese
+einen Vorzug der Evidenz vor den directen Beweisen darin: daß der Widerspruch
+allemal mehr Klarheit in der Vorstellung bei sich führt, als die
+beste Verknüpfung und sich dadurch dem Anschaulichen einer Demonstration
+mehr nähert.
+Die eigentliche Ursache des Gebrauchs apagogischer Beweise in verschiedenen
+Wissenschaften ist wohl diese. Wenn die Gründe, von denen
+eine gewisse Erkenntniß abgeleitet werden soll, zu mannigfaltig oder zu
+tief verborgen liegen: so versucht man, ob sie nicht durch die Folgen zu
+erreichen sei. Nun wäre der modus ponens , auf die Wahrheit einer Erkenntniß
+aus der Wahrheit ihrer Folgen zu schließen, nur alsdann erlaubt,
+wenn alle möglichen Folgen daraus wahr sind; denn alsdann ist zu diesen
+nur ein einziger Grund möglich, der also auch der wahre ist. Dieses
+Verfahren aber ist unthunlich, weil es über unsere Kräfte geht, alle mögliche
+Folgen von irgend einem angenommenen Satze einzusehen; doch bedient
+man sich dieser Art zu schließen, obzwar freilich mit einer gewissen
+Nachsicht, wenn es darum zu thun ist, um etwas bloß als Hypothese zu
+beweisen, indem man den Schluß nach der Analogie einräumt: daß, wenn
+so viele Folgen, als man nur immer versucht hat, mit einem angenommenen
+Grunde wohl zusammenstimmen, alle übrige mögliche auch darauf
+einstimmen werden. Um deswillen kann durch diesen Weg niemals eine
+Hypothese in demonstrirte Wahrheit verwandelt werden. Der modus tollens
+der Vernunftschlüsse, die von den Folgen auf die Gründe schließen,
+beweiset nicht allein ganz strenge, sondern auch überaus leicht. Denn
+wenn auch nur eine einzige falsche Folge aus einem Satze gezogen werden
+kann, so ist dieser Satz falsch. Anstatt nun die ganze Reihe der Gründe
+in einem ostensiven Beweise durchzulaufen, die auf die Wahrheit einer Erkenntniß
+vermittelst der vollständigen Einsicht in ihre Möglichkeit führen
+kann, darf man nur unter den aus dem Gegentheil derselben fließenden
+Folgen eine einzige falsch finden, so ist dieses Gegentheil auch falsch, mithin
+die Erkenntniß, welche man zu beweisen hatte, wahr.
+Die apagogische Beweisart kann aber nur in den Wissenschaften erlaubt
+sein, wo es unmöglich ist, das Subjective unserer Vorstellungen dem
+Objectiven, nämlich der Erkenntniß desjenigen, was am Gegenstande ist,

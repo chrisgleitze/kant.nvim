@@ -1,0 +1,44 @@
+---
+Werk: Prolegomena zu einer jeden künftigen Metaphysik, die als Wissenschaft wird auftreten können
+Abschnitt: Akademie-Ausgabe Seite 268
+Akademie-Ausgabe: Bd. IV, S. 268
+Erstausgabe: 1783
+---
+
+1) Erfahrungsurtheile sind jederzeit synthetisch. Denn es wäre
+ungereimt, ein analytisches Urtheil auf Erfahrung zu gründen, da ich doch
+aus meinem Begriffe gar nicht hinausgehen darf, um das Urtheil abzufassen,
+und also kein Zeugniß der Erfahrung dazu nöthig habe. Daß ein
+Körper ausgedehnt sei, ist ein Satz, der a priori feststeht, und kein Erfahrungsurtheil.
+Denn ehe ich zur Erfahrung gehe, habe ich alle Bedingungen
+zu meinem Urtheile schon in dem Begriffe, aus welchem ich das
+Prädicat nach dem Satze des Widerspruchs nur herausziehen und dadurch
+zugleich der Nothwendigkeit des Urtheils bewußt werden kann, welche
+mir Erfahrung nicht einmal lehren würde.
+2) Mathematische Urtheile sind insgesammt synthetisch. Dieser
+Satz scheint den Bemerkungen der Zergliederer der menschlichen Vernunft
+bisher ganz entgangen, ja allen ihren Vermutungen gerade entgegengesetzt
+zu sein, ob er gleich unwidersprechlich gewiß und in der Folge
+sehr wichtig ist. Denn weil man fand, daß die Schlüsse der Mathematiker
+alle nach dem Satze des Widerspruches fortgehen (welches die Natur
+einer jeden apodiktischen Gewißheit erfordert), so überredete man sich, daß
+auch die Grundsätze aus dem Satze des Widerspruchs erkannt würden,
+worin sie sich sehr irrten; denn ein synthetischer Satz kann allerdings nach
+dem Satze des Widerspruchs eingesehen werden, aber nur so, daß ein anderer
+synthetischer Satz vorausgesetzt wird, aus dem er gefolgert werden
+kann, niemals aber an sich selbst.
+Zuvörderst muß bemerkt werden: daß eigentliche mathematische Sätze
+jederzeit Urtheile a priori und nicht empirisch sind, weil sie Nothwendigkeit
+bei sich führen, welche aus Erfahrung nicht abgenommen werden kann. Will
+man mir aber dieses nicht einräumen, wohlan so schränke ich meinen Satz
+auf die reine Mathematik ein, deren Begriff es schon mit sich bringt,
+daß sie nicht empirische, sondern blos reine Erkenntniß a priori enthalte.
+Man sollte anfänglich wohl denken, daß der Satz 7+5 = 12 ein
+blos analytischer Satz sei, der aus dem Begriffe einer Summe von Sieben
+und Fünf nach dem Satze des Widerspruches erfolge. Allein wenn man es
+näher betrachtet, so findet man, daß der Begriff der Summe von 7 und 5
+nichts weiter enthalte, als die Vereinigung beider Zahlen in eine einzige,
+wodurch ganz und gar nicht gedacht wird, welches diese einzige Zahl sei, die
+beide zusammenfaßt. Der Begriff von Zwölf ist keinesweges dadurch schon
+gedacht, daß ich mir blos jene Vereinigung von Sieben und Fünf denke;
+und ich mag meinen Begriff von einer solchen möglichen Summe noch so

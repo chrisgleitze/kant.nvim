@@ -1,0 +1,44 @@
+---
+Werk: Kritik der reinen Vernunft
+Abschnitt: Akademie-Ausgabe Seite 284
+Akademie-Ausgabe: Bd. III, S. 284
+Erstausgabe: 1781
+---
+
+diesen Folgen die Rede ist. Denn Bedingungen sind in Ansehung des
+gegebenen Bedingten schon vorausgesetzt und mit diesem auch als gegeben
+anzusehen, anstatt daß, da die Folgen ihre Bedingungen nicht möglich
+machen, sondern vielmehr voraussetzen, man im Fortgange zu den Folgen
+(oder im Absteigen von der gegebenen Bedingung zu dem Bedingten) unbekümmert
+sein kann, ob die Reihe aufhöre oder nicht, und überhaupt die
+Frage wegen ihrer Totalität gar keine Voraussetzung der Vernunft ist.
+So denkt man sich nothwendig eine bis auf den gegebenen Augenblick
+völlig abgelaufene Zeit auch als gegeben (wenn gleich nicht durch uns bestimmbar).
+Was aber die künftige betrifft, da sie die Bedingung nicht ist,
+zu der Gegenwart zu gelangen, so ist es, um diese zu begreifen, ganz
+gleichgültig, wie wir es mit der künftigen Zeit halten wollen, ob man sie
+irgendwo aufhören, oder ins Unendliche laufen lassen will. Es sei die
+Reihe m, n, o, worin n als bedingt in Ansehung m, aber zugleich als Bedingung
+von o gegeben ist; die Reihe gehe aufwärts von dem Bedingten n
+zu m (l, k, i etc.), im gleichen abwärts von der Bedingung n zum Bedingten
+o (p, q, r etc.): so muß ich die erstere Reihe voraussetzen, um n als gegeben
+anzusehen, und n ist nach der Vernunft (der Totalität der Bedingungen)
+nur vermittelst jener Reihe möglich, seine Möglichkeit beruht aber nicht
+auf der folgenden Reihe o, p, q, r, die daher auch nicht als gegeben, sondern
+nur als dabilis angesehen werden könnte.
+Ich will die Synthesis einer Reihe auf der Seite der Bedingungen,
+also von derjenigen an, welche die nächste zur gegebenen Erscheinung ist,
+und so zu den entfernteren Bedingungen, die regressive, diejenige aber,
+die auf der Seite des Bedingten von der nächsten Folge zu den entfernteren
+fortgeht, die progressive Synthesis nennen. Die erstere geht in
+antecedentia , die zweite in consequentia . Die kosmologischen Ideen also
+beschäftigen sich mit der Totalität der regressiven Synthesis und gehen in
+antecedentia , nicht in consequentia . Wenn dieses letztere geschieht, so ist
+es ein willkürliches und nicht nothwendiges Problem der reinen Vernunft,
+weil wir zur vollständigen Begreiflichkeit dessen, was in der Erscheinung
+gegeben ist, wohl der Gründe, nicht aber der Folgen bedürfen.
+Um nun nach der Tafel der Kategorien die Tafel der Ideen einzurichten,
+so nehmen wir zuerst die zwei ursprünglichen Quanta aller unserer
+Anschauung, Zeit und Raum. Die Zeit ist an sich selbst eine Reihe (und
+die formale Bedingung aller Reihen), und daher sind in ihr in Ansehung
+einer gegebenen Gegenwart die antecedentia als Bedingungen (das Vergangene)

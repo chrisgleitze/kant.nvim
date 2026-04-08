@@ -1,0 +1,40 @@
+---
+Werk: Kritik der reinen Vernunft
+Abschnitt: Akademie-Ausgabe Seite 240
+Akademie-Ausgabe: Bd. III, S. 240
+Erstausgabe: 1781
+---
+
+B.
+Vom logischen Gebrauche der Vernunft.
+Man macht einen Unterschied zwischen dem, was unmittelbar erkannt,
+und dem, was nur geschlossen wird. Daß in einer Figur, die durch
+drei gerade Linien begrenzt ist, drei Winkel sind, wird unmittelbar erkannt;
+daß diese Winkel aber zusammen zwei rechten gleich sind, ist nur geschlossen.
+Weil wir des Schließens beständig bedürfen, und es dadurch
+endlich ganz gewohnt werden, so bemerken wir zuletzt diesen Unterschied
+nicht mehr und halten oft, wie bei dem sogenannten Betruge der Sinne,
+etwas für unmittelbar wahrgenommen, was wir doch nur geschlossen haben.
+Bei jedem Schlusse ist ein Satz, der zum Grunde liegt, und ein
+anderer, nämlich die Folgerung, die aus jenem gezogen wird, und endlich
+die Schlußfolge (Consequenz), nach welcher die Wahrheit des letzteren
+unausbleiblich mit der Wahrheit des ersteren verknüpft ist. Liegt das
+geschlossene Urtheil schon so in dem ersten, daß es ohne Vermittelung einer
+dritten Vorstellung daraus abgeleitet werden kann, so heißt der Schluß
+unmittelbar ( consequentia immediata ); ich möchte ihn lieber den Verstandesschluß
+nennen. Ist aber außer der zum Grunde gelegten Erkenntniß
+noch ein anderes Urtheil nöthig, um die Folge zu bewirken, so heißt
+der Schluß ein Vernunftschluß. In dem Satze: alle Menschen sind
+sterblich, liegen schon die Sätze: einige Menschen sind sterblich, einige
+Sterbliche sind Menschen, nichts, was unsterblich ist, ist ein Mensch, und
+diese sind also unmittelbare Folgerungen aus dem ersteren. Dagegen
+liegt der Satz: alle Gelehrte sind sterblich, nicht in dem untergelegten Urtheile
+(denn der Begriff der Gelehrten kommt in ihm gar nicht vor), und
+er kann nur vermittelst eines Zwischenurtheils aus diesem gefolgert werden.
+In jedem Vernunftschlusse denke ich zuerst eine Regel ( major ) durch
+den Verstand. Zweitens subsumire ich ein Erkenntniß unter die Bedingung
+der Regel ( minor ) vermittelst der Urtheilskraft. Endlich bestimme
+ich mein Erkenntniß durch das Prädicat der Regel ( conclusio ),
+mithin a priori durch die Vernunft. Das Verhältniß also, welches der
+Obersatz als die Regel zwischen einer Erkenntniß und ihrer Bedingung
+vorstellt, macht die verschiedenen Arten der Vernunftschlüsse aus. Sie
