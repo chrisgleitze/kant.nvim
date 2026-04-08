@@ -13,8 +13,8 @@ full-text search, work browsing, and serendipitous discovery.
 
 > [!NOTE]
 > This is a very early-stage plugin!\
-> I've only added a few short texts by Kant to create a proof of concept.\
-> That worked well so far, so I'll add more shortly.
+> The core proof of concept is in place.\
+> I'm expanding the corpus step by step with complete texts by Kant.\
 
 ## Why?
 
@@ -134,7 +134,9 @@ The plugin ships with plaintext files from Kant's major works. Each file include
 
 ### Currently included
 
-- **Kritik der reinen Vernunft** — Vorrede (B), Einleitung
+- **Kritik der reinen Vernunft** — complete text
+- **Kritik der praktischen Vernunft** — complete text
+- **Kritik der Urteilskraft** — complete text
 - **Grundlegung zur Metaphysik der Sitten** — complete text
 
 ### Adding texts
@@ -165,10 +167,24 @@ kant.nvim/
 ├── plugin/
 │   └── kant.vim            # Vim command definitions
 ├── texts/
-│   ├── kritik-der-reinen-vernunft/
-│   │   ├── vorrede-b.txt
-│   │   └── einleitung.txt
-│   └── grundlegung-zur-metaphysik-der-sitten/
+│   ├── 1781-kritik-der-reinen-vernunft/
+│   │   ├── 001-titelseite.txt
+│   │   ├── 002-baco-de-verulamio.txt
+│   │   ├── 003-kapitel-3.txt
+│   │   ├── ...
+│   │   └── 146-viertes-hauptstueck-die-geschichte-der-reinen-vernunft.txt
+│   ├── 1788-kritik-der-praktischen-vernunft/
+│   │   ├── 001-titelseite.txt
+│   │   ├── 002-kapitel-2.txt
+│   │   ├── 003-kapitel-3.txt
+│   │   ├── ...
+│   │   └── 034-kapitel-34.txt
+│   ├── 1790-kritik-der-urteilskraft/
+│   │   ├── 001-titelseite.txt
+│   │   ├── 002-i-von-der-einteilung-der-philosophie.txt
+│   │   ├── ...
+│   │   └── 102-kapitel-102.txt
+│   └── 1785-grundlegung-zur-metaphysik-der-sitten/
 │       ├── 01-vorrede.txt
 │       ├── 02-erster-abschnitt.txt
 │       ├── 03-zweiter-abschnitt.txt
@@ -179,7 +195,7 @@ kant.nvim/
 
 ## Roadmap
 
-- [ ] Expand corpus with all three Critiques and minor works
+- [ ] Expand corpus with more works and minor texts
 - [ ] `scripts/fetch_texts.sh` to download texts from Project Gutenberg / DTA
 - [ ] `:KantStelle III:52` — look up passages by Akademie-Ausgabe page number
 - [ ] Begriffregister (concept index) for key philosophical terms
