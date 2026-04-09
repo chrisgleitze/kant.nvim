@@ -4,7 +4,7 @@ Search and browse the works of Immanuel Kant in German directly from Neovim.
 
 The plugin combines Neovim's powerful search capabilities with a local corpus of the works of one of the most influential philosophers of all time.
 
-The texts are arranged, so you can cite the exact page of the Akademie Ausgabe, the authoritative edition of Kant's works.
+The texts are arranged, so you can cite the exact page of the Akademie Ausgabe, the authoritative edition of Kant's works. It is one text file per page of the Akademie Ausgabe.
 
 ## What is it?
 
@@ -129,6 +129,13 @@ require("kant").setup({
 
 The plugin ships with plaintext files from Kant's major works. Each file includes a YAML-style metadata header with the work title, section name, Akademie-Ausgabe volume, page range, and year of first publication.
 
+For the _Kritik der reinen Vernunft_, the corpus distinguishes the two relevant editions explicitly in separate top-level directories under `texts/`:
+
+- `1781-kritik-der-reinen-vernunft-a-ausgabe` for the first edition
+- `1787-kritik-der-reinen-vernunft-b-ausgabe` for the second edition
+
+This matters especially for the prefaces and the introduction, which differ substantially between A and B.
+
 ### Currently included
 
 - **Kritik der reinen Vernunft**
@@ -154,6 +161,8 @@ The plugin ships with plaintext files from Kant's major works. Each file include
 Place additional `.txt` files in a subdirectory under `texts/`. Each
 subdirectory represents one work. Files should follow this format:
 
+Use simple page-based filenames such as `seite-001.txt`, `seite-002.txt`.
+
 ```
 ---
 Werk: Title of the Work
@@ -163,6 +172,20 @@ Erstausgabe: 1781
 ---
 
 Text content here...
+```
+
+For edition-sensitive texts such as the _Kritik der reinen Vernunft_, add explicit edition metadata:
+
+```
+---
+Werk: Kritik der reinen Vernunft
+Ausgabe: B
+Auflage: 1787
+Sigle: B27
+Abschnitt: Einleitung
+Akademie-Ausgabe: Bd. III, S. 27
+Erstausgabe: 1781
+---
 ```
 
 ## Project Structure
@@ -177,12 +200,13 @@ kant.nvim/
 ├── plugin/
 │   └── kant.vim            # Vim command definitions
 ├── texts/
-│   ├── 1781-kritik-der-reinen-vernunft/
+│   ├── 1781-kritik-der-reinen-vernunft-a-ausgabe/
 │   ├── 1783-prolegomena-zu-einer-jeden-kuenftigen-metaphysik/
 │   ├── 1784-idee-zu-einer-allgemeinen-geschichte-in-weltbuergerlicher-absicht/
 │   ├── 1784-beantwortung-der-frage-was-ist-aufklaerung/
 │   ├── 1785-bestimmung-des-begriffs-einer-menschenrace/
 │   ├── 1785-grundlegung-zur-metaphysik-der-sitten/
+│   ├── 1787-kritik-der-reinen-vernunft-b-ausgabe/
 │   ├── 1788-kritik-der-praktischen-vernunft/
 │   ├── 1790-kritik-der-urteilskraft/
 │   ├── 1793-ueber-den-gemeinspruch-das-mag-in-der-theorie-richtig-sein/
