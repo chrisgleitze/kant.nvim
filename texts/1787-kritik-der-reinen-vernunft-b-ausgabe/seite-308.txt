@@ -1,0 +1,36 @@
+---
+Werk: Kritik der reinen Vernunft
+Ausgabe: B
+Auflage: 1787
+Sigle: B308
+Abschnitt: Akademie-Ausgabe Seite 308
+Akademie-Ausgabe: Bd. III, S. 308
+Erstausgabe: 1781
+---
+
+Der Antinomie der reinen Vernunft
+Dritter Widerstreit der transscendentalen Ideen.
+Thesis.
+Die Causalität nach Gesetzen der Natur ist nicht die einzige, aus welcher
+die Erscheinungen der Welt insgesammt abgeleitet werden können.
+Es ist noch eine Causalität durch Freiheit zu Erklärung derselben anzunehmen
+nothwendig.
+Beweis.
+Man nehme an, es gebe keine andere Causalität, als nach Gesetzen
+der Natur; so setzt alles, was geschieht, einen vorigen Zustand voraus,
+auf den es unausbleiblich nach einer Regel folgt. Nun muß aber der
+vorige Zustand selbst etwas sein, was geschehen ist (in der Zeit geworden,
+da es vorher nicht war), weil, wenn es jederzeit gewesen wäre, seine Folge
+auch nicht allererst entstanden, sondern immer gewesen sein würde. Also
+ist die Causalität der Ursache, durch welche etwas geschieht, selbst etwas
+Geschehenes, welches nach dem Gesetze der Natur wiederum einen vorigen
+Zustand und dessen Causalität, dieser aber eben so einen noch älteren
+voraussetzt u. s. w. Wenn also alles nach bloßen Gesetzen der Natur geschieht,
+so giebt es jederzeit nur einen subalternen, niemals aber einen
+ersten Anfang und also überhaupt keine Vollständigkeit der Reihe auf der
+Seite der von einander abstammenden Ursachen. Nun besteht aber eben
+darin das Gesetz der Natur: daß ohne hinreichend a priori bestimmte Ursache
+nichts geschehe. Also widerspricht der Satz, als wenn alle Causalität
+nur nach Naturgesetzen möglich sei, sich selbst in seiner unbeschränkten
+Allgemeinheit, und diese kann also nicht als die einzige angenommen
+werden.

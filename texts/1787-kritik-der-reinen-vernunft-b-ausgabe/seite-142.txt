@@ -1,0 +1,47 @@
+---
+Werk: Kritik der reinen Vernunft
+Ausgabe: B
+Auflage: 1787
+Sigle: B142
+Abschnitt: Akademie-Ausgabe Seite 142
+Akademie-Ausgabe: Bd. III, S. 142
+Erstausgabe: 1781
+---
+
+Denn wenn das Urtheil analytisch ist, mag es nun verneinend oder
+bejahend sein, so muß dessen Wahrheit jederzeit nach dem Satze des Widerspruchs
+hinreichend können erkannt werden. Denn von dem, was in der
+Erkenntniß des Objects schon als Begriff liegt und gedacht wird, wird
+das Widerspiel jederzeit richtig verneint, der Begriff selber aber nothwendig
+von ihm bejaht werden müssen, darum weil das Gegentheil desselben dem
+Objecte widersprechen würde.
+Daher müssen wir auch den Satz des Widerspruchs als das allgemeine
+und völlig hinreichende Principium aller analytischen Erkenntniß
+gelten lassen; aber weiter geht auch sein Ansehen und Brauchbarkeit
+nicht, als eines hinreichenden Kriterium der Wahrheit. Denn daß
+ihm gar keine Erkenntniß zuwider sein könne, ohne sich selbst zu vernichten,
+das macht diesen Satz wohl zur conditio sine qua non , aber nicht zum
+Bestimmungsgrunde der Wahrheit unserer Erkenntniß. Da wir es nun
+eigentlich nur mit dem synthetischen Theile unserer Erkenntniß zu thun
+haben, so werden wir zwar jederzeit bedacht sein, diesem unverletzlichen
+Grundsatz niemals zuwider zu handeln, von ihm aber in Ansehung der
+Wahrheit von dergleichen Art der Erkenntniß niemals einigen Aufschluß
+gewärtigen können.
+Es ist aber doch eine Formel dieses berühmten, obzwar von allem
+Inhalt entblößten und bloß formalen Grundsatzes, die eine Synthesis
+enthält, welche aus Unvorsichtigkeit und ganz unnöthiger Weise in ihr
+gemischt worden. Sie heißt: Es ist unmöglich, daß etwas zugleich sei
+und nicht sei. Außer dem, daß hier die apodiktische Gewißheit (durch das
+Wort unmöglich) überflüssiger Weise angehängt worden, die sich doch
+von selbst aus dem Satz muß verstehen lassen, so ist der Satz durch die
+Bedingung der Zeit afficirt und sagt gleichsam: Ein Ding = A, welches
+etwas = B ist, kann nicht zu gleicher Zeit non B sein; aber es kann gar
+wohl beides (B sowohl, als non B) nach einander sein. Z. B. ein Mensch,
+der jung ist, kann nicht zugleich alt sein, eben derselbe kann aber sehr wohl
+zu einer Zeit jung, zur andern nicht jung, d. i. alt, sein. Nun muß der
+Satz des Widerspruchs, als ein bloß logischer Grundsatz, seine Aussprüche
+gar nicht auf die Zeitverhältnisse einschränken, daher ist eine solche Formel
+der Absicht desselben ganz zuwider. Der Mißverstand kommt bloß daher:
+daß man ein Prädicat eines Dinges zuvörderst von dem Begriff desselben
+absondert und nachher sein Gegentheil mit diesem Prädicate verknüpft,
+welches niemals einen Widerspruch mit dem Subjecte, sondern nur mit

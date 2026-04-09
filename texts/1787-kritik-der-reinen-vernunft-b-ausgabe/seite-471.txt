@@ -1,0 +1,47 @@
+---
+Werk: Kritik der reinen Vernunft
+Ausgabe: B
+Auflage: 1787
+Sigle: B471
+Abschnitt: Akademie-Ausgabe Seite 471
+Akademie-Ausgabe: Bd. III, S. 471
+Erstausgabe: 1781
+---
+
+die in diesen Begriffen gar nicht liegen. Allein der Geometer nehme diese
+Frage vor. Er fängt sofort davon an, einen Triangel zu construiren.
+Weil er weiß, daß zwei rechte Winkel zusammen gerade so viel austragen,
+als alle berührende Winkel, die aus einem Punkte auf einer geraden
+Linie gezogen werden können, zusammen, so verlängert er eine Seite seines
+Triangels und bekommt zwei berührende Winkel, die zwei rechten zusammen
+gleich sind. Nun teilt er den äußeren von diesen Winkeln, indem
+er eine Linie mit der gegenüberstehenden Seite des Triangels parallel
+zieht, und sieht, daß hier ein äußerer berührender Winkel entspringe, der
+einem inneren gleich ist, u. s. w. Er gelangt auf solche Weise durch eine
+Kette von Schlüssen, immer von der Anschauung geleitet, zur völlig einleuchtenden
+und zugleich allgemeinen Auflösung der Frage.
+Die Mathematik aber construirt nicht bloß Größen ( quanta ), wie in
+der Geometrie, sondern auch die bloße Größe ( quantitatem ), wie in der
+Buchstabenrechnung, wobei sie von der Beschaffenheit des Gegenstandes,
+der nach einem solchen Größenbegriff gedacht werden soll, gänzlich abstrahirt.
+Sie wählt sich alsdann eine gewisse Bezeichnung aller Constructionen
+von Größen überhaupt (Zahlen) als der Addition, Subtraction
+u. s. w., Ausziehung der Wurzel; und nachdem sie den allgemeinen Begriff
+der Größen nach den verschiedenen Verhältnissen derselben auch bezeichnet
+hat, so stellt sie alle Behandlung, die durch die Größe erzeugt und
+verändert wird, nach gewissen allgemeinen Regeln in der Anschauung
+dar; wo eine Größe durch die andere dividirt werden soll, setzt sie beider
+ihre Charaktere nach der bezeichnenden Form der Division zusammen
+u. s. w. und gelangt also vermittelst einer symbolischen Construction eben
+so gut, wie die Geometrie nach einer ostensiven oder geometrischen (der
+Gegenstände selbst) dahin, wohin die discursive Erkenntniß vermittelst
+bloßer Begriffe niemals gelangen könnte.
+Was mag die Ursache dieser so verschiedenen Lage sein, darin sich
+zwei Vernunftkünstler befinden, deren der eine seinen Weg nach Begriffen,
+der andere nach Anschauungen nimmt, die er a priori den Begriffen gemäß
+darstellt? Nach den oben vorgetragenen transscendentalen Grundlehren
+ist diese Ursache klar. Es kommt hier nicht auf analytische Sätze
+an, die durch bloße Zergliederung der Begriffe erzeugt werden können
+(hierin würde der Philosoph ohne Zweifel den Vortheil über seinen Nebenbuhler
+haben), sondern auf synthetische und zwar solche, die a priori
+sollen erkannt werden. Denn ich soll nicht auf dasjenige sehen, was ich

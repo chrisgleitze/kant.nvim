@@ -1,0 +1,43 @@
+---
+Werk: Kritik der reinen Vernunft
+Ausgabe: A
+Auflage: 1781
+Sigle: A204
+Abschnitt: Akademie-Ausgabe Seite 204
+Akademie-Ausgabe: Bd. IV, S. 204
+Erstausgabe: 1781
+---
+
+Dem, der sich einmal an diese Unterscheidung gewöhnt hat,
+muß es unerträglich fallen, die Vorstellung der rothen Farbe Idee nennen
+zu hören. Sie ist nicht einmal Notion (Verstandesbegriff) zu nennen.
+Des
+Ersten Buchs der transscendentalen Dialektik
+Zweiter Abschnitt.
+Von den transscendentalen Ideen.
+Die transscendentale Analytik gab uns ein Beispiel, wie die bloße
+logische Form unserer Erkenntniß den Ursprung von reinen Begriffen
+a priori enthalten könne, welche vor aller Erfahrung Gegenstände vorstellen,
+oder vielmehr die synthetische Einheit anzeigen, welche allein eine empirische
+Erkenntniß von Gegenständen möglich macht. Die Form der Urtheile (in
+einen Begriff von der Synthesis der Anschauungen verwandelt) brachte
+Kategorien hervor, welche allen Verstandesgebrauch in der Erfahrung
+leiten. Eben so können wir erwarten, daß die Form der Vernunftschlüsse,
+wenn man sie auf die synthetische Einheit der Anschauungen nach Maßgebung
+der Kategorien anwendet, den Ursprung besonderer Begriffe a priori
+enthalten werde, welche wir reine Vernunftbegriffe oder transscendentale
+Ideen nennen können, und die den Verstandesgebrauch im Ganzen der
+gesammten Erfahrung nach Principien bestimmen werden.
+Die Function der Vernunft bei ihren Schlüssen bestand in der Allgemeinheit
+der Erkenntniß nach Begriffen, und der Vernunftschluß selbst
+ist ein Urtheil, welches a priori in dem ganzen Umfange seiner Bedingung
+bestimmt wird. Den Satz: Caius ist sterblich, könnte ich auch blos
+durch den Verstand aus der Erfahrung schöpfen. Allein ich suche einen
+Begriff, der die Bedingung enthält, unter welcher das Prädicat (Assertion
+überhaupt) dieses Urtheils gegeben wird (d. i. hier den Begriff des Menschen);
+und nachdem ich unter diese Bedingung, in ihrem ganzen Umfange
+genommen (alle Menschen sind sterblich), subsumirt habe: so bestimme ich
+darnach die Erkenntniß meines Gegenstandes (Caius ist sterblich).
+Demnach restringiren wir in der Conclusion eines Vernunftschlusses
+ein Prädicat auf einen gewissen Gegenstand, nachdem wir es vorher in
+dem Obersatz in seinem ganzen Umfange unter einer gewissen Bedingung

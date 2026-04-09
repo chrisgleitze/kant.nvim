@@ -1,0 +1,42 @@
+---
+Werk: Kritik der reinen Vernunft
+Ausgabe: B
+Auflage: 1787
+Sigle: B37
+Abschnitt: Akademie-Ausgabe Seite 37
+Akademie-Ausgabe: Bd. III, S. 37
+Erstausgabe: 1781
+---
+
+bei sich führen, welche aus Erfahrung nicht abgenommen werden
+kann. Will man aber dieses nicht einräumen, wohlan, so schränke ich
+meinen Satz auf die reine Mathematik ein, deren Begriff es schon mit
+sich bringt, daß sie nicht empirische, sondern bloß reine Erkenntniß a priori
+enthalte.
+Man sollte anfänglich zwar denken: daß der Satz 7+5 = 12 ein
+bloß analytischer Satz sei, der aus dem Begriffe einer Summe von Sieben
+und Fünf nach dem Satze des Widerspruches erfolge. Allein wenn man
+es näher betrachtet, so findet man, daß der Begriff der Summe von 7 und
+5 nichts weiter enthalte, als die Vereinigung beider Zahlen in eine einzige,
+wodurch ganz und gar nicht gedacht wird, welches diese einzige Zahl
+sei, die beide zusammenfaßt. Der Begriff von Zwölf ist keinesweges dadurch
+schon gedacht, daß ich mir bloß jene Vereinigung von Sieben und
+Fünf denke, und ich mag meinen Begriff von einer solchen möglichen
+Summe noch so lange zergliedern, so werde ich doch darin die Zwölf
+nicht antreffen. Man muß über diese Begriffe hinausgehen, indem man
+die Anschauung zu Hülfe nimmt, die einem von beiden correspondirt, etwa
+seine fünf Finger oder (wie Segner in seiner Arithmetik) fünf Punkte,
+und so nach und nach die Einheiten der in der Anschauung gegebenen
+Fünf zu dem Begriffe der Sieben hinzuthut. Denn ich nehme zuerst die
+Zahl 7, und indem ich für den Begriff der 5 die Finger meiner Hand als
+Anschauung zu Hülfe nehme, so thue ich die Einheiten, die ich vorher
+zusammennahm, um die Zahl 5 auszumachen, nun an jenem meinem
+Bilde nach und nach zur Zahl 7 und sehe so die Zahl 12 entspringen.
+Daß 5 zu 7 hinzugethan werden sollten, habe ich zwar in dem Begriff
+einer Summe = 7+5 gedacht, aber nicht, daß diese Summe der Zahl
+12 gleich sei. Der arithmetische Satz ist also jederzeit synthetisch, welches
+man desto deutlicher inne wird, wenn man etwas größere Zahlen nimmt,
+da es denn klar einleuchtet, daß, wir möchten unsere Begriffe drehen
+und wenden, wie wir wollen, wir, ohne die Anschauung zu Hülfe zu nehmen,
+vermittelst der bloßen Zergliederung unserer Begriffe, die Summe
+niemals finden könnten.

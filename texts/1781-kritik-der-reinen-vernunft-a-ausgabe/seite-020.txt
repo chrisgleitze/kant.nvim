@@ -1,0 +1,45 @@
+---
+Werk: Kritik der reinen Vernunft
+Ausgabe: A
+Auflage: 1781
+Sigle: A20
+Abschnitt: Akademie-Ausgabe Seite 20
+Akademie-Ausgabe: Bd. IV, S. 20
+Erstausgabe: 1781
+---
+
+es selbst zu merken, unter dieser Vorspiegelung Behauptungen von ganz
+anderer Art, wo die Vernunft zu gegebenen Begriffen a priori ganz fremde
+hinzu thut, ohne daß man weiß, wie sie dazu gelange, und ohne sich diese
+Frage auch nur in die Gedanken kommen zu lassen. Ich will daher gleich
+anfangs von dem Unterschiede dieser zwiefachen Erkenntnißart handeln.
+Von dem Unterschiede analytischer und synthetischer Urtheile.
+In allen Urtheilen, worin das Verhältniß eines Subjects zum Prädicat
+gedacht wird (wenn ich nur die bejahende erwäge: denn auf die
+verneinende ist die Anwendung leicht), ist dieses Verhältniß auf zweierlei
+Art möglich. Entweder das Prädicat B gehört zum Subject A als etwas,
+was in diesem Begriffe A (versteckter Weise) enthalten ist; oder B liegt
+ganz außer dem Begriff A, ob es zwar mit demselben in Verknüpfung
+steht. Im ersten Fall nenne ich das Urtheil analytisch, im andern synthetisch.
+Analytische Urtheile (die bejahende) sind also diejenige, in welchen
+die Verknüpfung des Prädicats mit dem Subject durch Identität, diejenige
+aber, in denen diese Verknüpfung ohne Identität gedacht wird,
+sollen synthetische Urtheile heißen. Die erstere könnte man auch Erläuterungs=,
+die andere Erweiterungs=Urtheile heißen, weil jene durch das
+Prädicat nichts zum Begriff des Subjects hinzuthun, sondern diesen nur
+durch Zergliederung in seine Theilbegriffe zerfällen, die in selbigem schon
+(obschon verworren) gedacht waren: dahingegen die letztere zu dem Begriffe
+des Subjects ein Prädicat hinzuthun, welches in jenem gar nicht
+gedacht war und durch keine Zergliederung desselben hätte können herausgezogen
+werden. Z. B. wenn ich sage: alle Körper sind ausgedehnt, so ist
+dies ein analytisch Urtheil. Denn ich darf nicht aus dem Begriffe, den
+ich mit dem Wort Körper verbinde, hinausgehen, um die Ausdehnung
+als mit demselben verknüpft zu finden, sondern jenen Begriff nur zergliedern,
+d. i. des Mannigfaltigen, welches ich jederzeit in ihm denke, nur bewußt
+werden, um dieses Prädicat darin anzutreffen; es ist also ein analytisches
+Urtheil. Dagegen wenn ich sage: alle Körper sind schwer, so ist
+das Prädicat etwas ganz anders als das, was ich in dem bloßen Begriff
+eines Körpers überhaupt denke. Die Hinzufügung eines solchen Prädicats
+giebt also ein synthetisch Urtheil.
+Nun ist hieraus klar: 1) daß durch analytische Urtheile unsere Erkenntniß
+gar nicht erweitert werde, sondern der Begriff, den ich schon habe,

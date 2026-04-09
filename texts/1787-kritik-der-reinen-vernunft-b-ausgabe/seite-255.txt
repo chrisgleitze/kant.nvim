@@ -1,0 +1,45 @@
+---
+Werk: Kritik der reinen Vernunft
+Ausgabe: B
+Auflage: 1787
+Sigle: B255
+Abschnitt: Akademie-Ausgabe Seite 255
+Akademie-Ausgabe: Bd. III, S. 255
+Erstausgabe: 1781
+---
+
+Ob wir nun gleich von den transscendentalen Vernunftbegriffen sagen
+müssen: sie sind nur Ideen, so werden wir sie doch keinesweges für überflüssig
+und nichtig anzusehen haben. Denn wenn schon dadurch kein Object
+bestimmt werden kann, so können sie doch im Grunde und unbemerkt
+dem Verstande zum Kanon seines ausgebreiteten und einhelligen Gebrauchs
+dienen, dadurch er zwar keinen Gegenstand mehr erkennt, als er
+nach seinen Begriffen erkennen würde, aber doch in dieser Erkenntniß
+besser und weiter geleitet wird. Zu geschweigen, daß sie vielleicht von
+den Naturbegriffen zu den praktischen einen Übergang möglich machen
+und den moralischen Ideen selbst auf solche Art Haltung und Zusammenhang
+mit den speculativen Erkenntnissen der Vernunft verschaffen
+können. Über alles dieses muß man den Aufschluß in dem Verfolg erwarten.
+Unserer Absicht gemäß setzen wir aber hier die praktischen Ideen bei
+Seite und betrachten daher die Vernunft nur im speculativen und in diesem
+noch enger, nämlich nur im transscendentalen Gebrauch. Hier müssen
+wir nun denselben Weg einschlagen, den wir oben bei der Deduction
+der Kategorien nahmen: nämlich die logische Form der Vernunfterkenntniß
+erwägen und sehen, ob nicht etwa die Vernunft dadurch auch ein
+Quell von Begriffen werde, Objecte an sich selbst als synthetisch a priori
+bestimmt in Ansehung einer oder der andern Function der Vernunft anzusehen.
+Vernunft, als Vermögen einer gewissen logischen Form der Erkenntniß
+betrachtet, ist das Vermögen zu schließen, d. i. mittelbar (durch die
+Subsumtion der Bedingung eines möglichen Urtheils unter die Bedingung
+eines gegebenen) zu urtheilen. Das gegebene Urtheil ist die allgemeine
+Regel (Obersatz, Major ). Die Subsumtion der Bedingung eines
+andern möglichen Urtheils unter die Bedingung der Regel ist der Untersatz
+( Minor ). Das wirkliche Urtheil, welches die Assertion der Regel
+in dem subsumirten Falle aussagt, ist der Schlußsatz ( Conclusio ).
+Die Regel nämlich sagt etwas allgemein unter einer gewissen Bedingung.
+Nun findet in einem vorkommenden Falle die Bedingung der Regel statt.
+Also wird das, was unter jener Bedingung allgemein galt, auch in dem
+vorkommenden Falle (der diese Bedingung bei sich führt) als gültig angesehen.
+Man sieht leicht, daß die Vernunft durch Verstandeshandlungen,
+welche eine Reihe von Bedingungen ausmachen, zu einem Erkenntnisse
+gelange. Wenn ich zu dem Satze: alle Körper sind veränderlich, nur dadurch

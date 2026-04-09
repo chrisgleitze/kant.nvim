@@ -1,0 +1,47 @@
+---
+Werk: Kritik der reinen Vernunft
+Ausgabe: A
+Auflage: 1781
+Sigle: A181
+Abschnitt: Akademie-Ausgabe Seite 181
+Akademie-Ausgabe: Bd. IV, S. 181
+Erstausgabe: 1781
+---
+
+von großem Nutzen, die Gränzen des Verstandes zuverlässig zu bestimmen
+und zu sichern.
+Man muß zwar sagen: was einem Begriff allgemein zukommt oder
+widerspricht, das kommt auch zu oder widerspricht allem Besondern, was
+unter jenem Begriff enthalten ist ( dictum de Omni et Nullo ); es wäre
+aber ungereimt, diesen logischen Grundsatz dahin zu verändern, daß er so
+lautete: was in einem allgemeinen Begriffe nicht enthalten ist, das ist auch
+in den besonderen nicht enthalten, die unter demselben stehen; denn diese
+sind eben darum besondere Begriffe, weil sie mehr in sich enthalten, als
+im allgemeinen gedacht wird. Nun ist doch wirklich auf diesen letzteren
+Grundsatz das ganze intellectuelle System Leibnizens erbauet: es fällt
+also zugleich mit demselben sammt aller aus ihm entspringenden Zweideutigkeit
+im Verstandesgebrauche.
+Der Satz des Nichtzuunterscheidenden gründete sich eigentlich auf der
+Voraussetzung, daß, wenn in dem Begriffe von einem Dinge überhaupt eine
+gewisse Unterscheidung nicht angetroffen wird, so sei sie auch nicht in den
+Dingen selbst anzutreffen; folglich seien alle Dinge völlig einerlei ( numero
+eadem ), die sich nicht schon in ihrem Begriffe (der Qualität oder Quantität
+nach) von einander unterscheiden. Weil aber bei dem bloßen Begriffe von
+irgend einem Dinge von manchen nothwendigen Bedingungen einer Anschauung
+abstrahirt worden, so wird durch eine sonderbare Übereilung das,
+wovon abstrahirt wird, dafür genommen, daß es überall nicht anzutreffen sei,
+und dem Dinge nichts eingeräumt, als was in seinem Begriffe enthalten ist.
+Der Begriff von einem Kubikfuße Raum, ich mag mir diesen denken,
+wo und wie oft ich wolle, ist an sich völlig einerlei. Allein zwei Kubikfüße
+sind im Raume dennoch blos durch ihre Örter unterschieden ( numero diversa );
+diese sind Bedingungen der Anschauung, worin das Object dieses
+Begriffs gegeben wird, die nicht zum Begriffe, aber doch zur ganzen Sinnlichkeit
+gehören. Gleichergestalt ist in dem Begriffe von einem Dinge gar
+kein Widerstreit, wenn nichts Verneinendes mit einem bejahenden verbunden
+worden, und blos bejahende Begriffe können in Verbindung gar
+keine Aufhebung bewirken. Allein in der sinnlichen Anschauung, darin
+Realtät (z. B. Bewegung) gegeben wird, finden sich Bedingungen (entgegengesetzte
+Richtungen), von denen im Begriffe der Bewegung überhaupt
+abstrahirt war, die einen Widerstreit, der freilich nicht logisch ist,
+nämlich aus lauter Positivem ein Zero = 0, möglich machen; und man
+konnte nicht sagen: daß darum alle Realität unter einander in Einstimmung

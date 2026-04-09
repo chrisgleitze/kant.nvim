@@ -1,0 +1,47 @@
+---
+Werk: Kritik der reinen Vernunft
+Ausgabe: B
+Auflage: 1787
+Sigle: B251
+Abschnitt: Akademie-Ausgabe Seite 251
+Akademie-Ausgabe: Bd. III, S. 251
+Erstausgabe: 1781
+---
+
+ist ein Urtheil, welches a priori in dem ganzen Umfange seiner Bedingung
+bestimmt wird. Den Satz: Cajus ist sterblich, könnte ich auch bloß durch
+den Verstand aus der Erfahrung schöpfen. Allein ich suche einen Begriff,
+der die Bedingung enthält, unter welcher das Prädicat (Assertion
+überhaupt) dieses Urtheils gegeben wird (d. i. hier den Begriff des
+Menschen), und nachdem ich unter diese Bedingung, in ihrem ganzen
+Umfange genommen, (alle Menschen sind sterblich) subsumirt habe: so
+bestimme ich darnach die Erkenntniß meines Gegenstandes (Cajus ist
+sterblich).
+Demnach restringiren wir in der Conclusion eines Vernunftschlusses
+ein Prädicat auf einen gewissen Gegenstand, nachdem wir es vorher in
+dem Obersatz in seinem ganzen Umfange unter einer gewissen Bedingung
+gedacht haben. Diese vollendete Größe des Umfanges in Beziehung auf
+eine solche Bedingung heißt die Allgemeinheit ( Universalitas ). Dieser
+entspricht in der Synthesis der Anschauungen die Allheit ( Universitas )
+oder Totalität der Bedingungen. Also ist der transscendentale Vernunftbegriff
+kein anderer, als der von der Totalität der Bedingungen
+zu einem gegebenen Bedingten. Da nun das Unbedingte allein die
+Totalität der Bedingungen möglich macht, und umgekehrt die Totalität
+der Bedingungen jederzeit selbst unbedingt ist: so kann ein reiner Vernunftbegriff
+überhaupt durch den Begriff des Unbedingten, sofern er einen
+Grund der Synthesis des Bedingten enthält, erklärt werden.
+So viel Arten des Verhältnisses es nun giebt, die der Verstand vermittelst
+der Kategorien sich vorstellt, so vielerlei reine Vernunftbegriffe
+wird es auch geben; und es wird also erstlich ein Unbedingtes der
+kategorischen Synthesis in einem Subject, zweitens der hypothetischen
+Synthesis der Glieder einer Reihe, drittens der disjunctiven
+Synthesis der Theile in einem System zu suchen sein.
+Es giebt nämlich eben so viel Arten von Vernunftschlüssen, deren
+jede durch Prosyllogismen zum Unbedingten fortschreitet: die eine zum
+Subject, welches selbst nicht mehr Prädicat ist, die andre zur Voraussetzung,
+die nichts weiter voraussetzt, und die dritte zu einem Aggregat
+der Glieder der Eintheilung, zu welchen nichts weiter erforderlich ist, um
+die Eintheilung eines Begriffs zu vollenden. Daher sind die reinen Vernunftbegriffe
+von der Totalität in der Synthesis der Bedingungen wenigstens
+als Aufgaben, um die Einheit des Verstandes wo möglich bis zum
+Unbedingten fortzusetzen, nothwendig und in der Natur der menschlichen
