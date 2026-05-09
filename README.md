@@ -2,6 +2,8 @@
 
 Search and browse the works of Immanuel Kant in German directly from Neovim.
 
+> **Warning:** This plugin is in a very early stage. APIs, commands, and the bundled corpus may still change.
+
 The plugin combines Neovim's powerful search capabilities with a local corpus of the works of one of the most influential philosophers of all time.
 
 The texts are arranged, so you can cite the exact page of the Akademie Ausgabe, the authoritative edition of Kant's works. It is one text file per page of the Akademie Ausgabe.
